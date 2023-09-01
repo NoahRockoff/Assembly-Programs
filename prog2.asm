@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-;noahlr2, gsayy2
 ;
 ;DESCRIPTION: This code evaluates postfix expressions by utilizing stacks.
 ;This program accepts any number or algebra function (* / + - ^) and calculates
